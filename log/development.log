@@ -52,3 +52,6 @@ Started GET "/hello_world" for 73.120.205.227 at 2019-08-27 02:17:18 +0000
 Processing by HelloWorldController#hello_world as HTML
   Rendering hello_world/hello_world.html.erb within layouts/application
   Rendered hello_world/hello_world.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 812ms (Views: 811.1ms | ActiveRecord: 0.0ms)
+
+
